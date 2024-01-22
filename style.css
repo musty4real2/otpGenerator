@@ -1,0 +1,27 @@
+body {
+    background-image: url("sam-hull-KCJKsJPe9pQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#otpContainer {
+    text-align: center;
+}
+
+#otpShow {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#genButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
